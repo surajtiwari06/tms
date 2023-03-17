@@ -2916,12 +2916,12 @@ ol li {
   }
 }
 .header-style-3 .header-nav .nav > li > a {
-  color: #2f2f2f;
-  font-size: 16px;
-  padding: 15px 16px;
+  color: #000000;
+  font-size: 20px;
+  padding: 16px 16px;
   cursor: pointer;
-  margin: 0px 0px;
-  font-weight: 400;
+  margin: -28px 0px;
+  font-weight: 400px;
   display: block;
 }
 @media (max-width: 1199px) {
@@ -2993,7 +2993,7 @@ ol li {
 .header-style-3 .header-nav .nav > li .sub-menu li a {
   color: #000;
   display: block;
-  font-size: 13px;
+  font-size: 15px;
   padding: 11px 20px;
   padding-left: 20px;
   font-weight: 500;
@@ -3086,6 +3086,7 @@ ol li {
   transition: all 0.5s ease-out;
   position: relative;
   z-index: 1;
+  margin-top: 3px;
 }
 @media (max-width: 991px) {
   .header-style-3 .header-nav.nav-animation .nav > li > ul.sub-menu li > a {
@@ -19672,6 +19673,7 @@ strong {
   .h-page-6-getjobs-wrap .h-page-6-getjobs-left .twm-media {
     width: 280px;
     height: 280px;
+    
   }
 }
 .h-page-6-getjobs-wrap .h-page-6-getjobs-left .twm-media img {
@@ -19679,6 +19681,7 @@ strong {
   display: block;
   position: relative;
   z-index: 5;
+
 }
 .h-page-6-getjobs-wrap .h-page-6-getjobs-left .twm-media-bg-circle {
   width: 70%;
