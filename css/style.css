@@ -6107,6 +6107,14 @@ button.scroltop span {
   border: 0px;
   border-radius: 10px;
 }
+
+.cons-contact-form-services .form-control {
+  height: 56px;
+  padding: 10px 20px;
+  background-color: #195aaf6d;
+  border: 0px;
+  border-radius: 10px;
+}
 .cons-contact-form .form-control:focus {
   box-shadow: none;
   background-color: #f9fcff;
@@ -18976,7 +18984,7 @@ strong {
   align-items: center;
 }
 .twm-hpage-6-subscribe-wrap .twm-hpage-6-subscribe {
-  background-color: #f3f7fd;
+  background-color: #b7cee5;
   padding: 55px;
   margin-left: -100px;
   border-radius: 10px 10px 10px 0px;
